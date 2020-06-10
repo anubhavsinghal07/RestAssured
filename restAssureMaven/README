@@ -1,2 +1,2 @@
 RestAssure E2E Automation is a  comprehension API Automation framework. It can be used to Automate REST Apis, OAuth 2.0, JIRA Rest APIs.
-For JIRA Rest APIs:- Install JIRA server at local host before executing tests.
+For JIRA Rest APIs:- Install JIRA server at local host before executing JIRA RestAPI tests.
