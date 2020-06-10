@@ -1,0 +1,19 @@
+{
+	"ClientName": "SCOT",
+	"Inst": 
+				[
+					{
+					"id": "UAT",
+					"username": "anubhavsinghal",
+					"password" : "lala@123",
+					"URI":"http://localhost:8080"
+					},
+					{
+					"id": "PP",
+					"username": "mariosb",
+					"password" : "lala@123",
+					"URI":"http://localhost:8080"
+					}
+					
+				]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SCOT>
+    <Inst id="UAT">  
+        <username>anubhavsinghal</username>
+        <password>lala@123</password>>
+        <URI>"http://localhost:8080"</URI>
+    </Inst>
+    <Inst id="PP">
+        <username>mariosb</username>
+        <password>lala@123</password>>
+        <URI>"http://localhost:8080"</URI>
+    </Inst>
+</SCOT>
