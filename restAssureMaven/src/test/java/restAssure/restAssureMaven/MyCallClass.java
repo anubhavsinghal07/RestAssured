@@ -1,7 +1,4 @@
-package callpack;
-
-
-import restAssure.restAssureMaven.ComplexJsonparse;
+package restAssure.restAssureMaven;
 
 public class MyCallClass extends ComplexJsonparse {
 	
